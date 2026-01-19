@@ -1,0 +1,5 @@
+{
+  "name": "CMAT Ace - Ultimate Mock Test Platform",
+  "description": "A comprehensive CMAT preparation app featuring full-length mock tests, sectional practice, and AI-powered performance analysis using Gemini.",
+  "requestFramePermissions": []
+}
